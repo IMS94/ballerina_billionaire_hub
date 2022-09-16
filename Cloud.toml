@@ -1,3 +1,6 @@
 [settings]
   buildImage = false
 
+[[container.copy.files]]
+sourceFile="./TopRichestInWorld.csv"
+target="/home/ballerina/TopRichestInWorld.csv"
