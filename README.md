@@ -1,2 +1,3 @@
-# e9bd1f797b36-billionairehub-app
-app repo created by choreo
+# Billionaire Hub
+
+A REST service written in Ballerina to fetch top richest people in the world
